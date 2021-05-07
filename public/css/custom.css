@@ -1,0 +1,5 @@
+.help-documentation {
+  display:none;
+}
+#settingsFormGeneral> div:first-of-type { display:none; }
+#settings-menu-other{ display:none; }

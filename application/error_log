@@ -1,0 +1,46 @@
+[30-Nov-2020 09:40:10 America/New_York] PHP Notice:  Undefined index: argv in /home/gi8l84000zs4/Crmstock.io/application/vendor/symfony/console/Input/ArgvInput.php on line 49
+[30-Nov-2020 09:40:10 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, null given in /home/gi8l84000zs4/Crmstock.io/application/vendor/symfony/console/Input/ArgvInput.php on line 53
+[30-Nov-2020 09:45:06 America/New_York] PHP Notice:  Undefined index: argv in /home/gi8l84000zs4/Crmstock.io/application/vendor/symfony/console/Input/ArgvInput.php on line 49
+[30-Nov-2020 09:45:06 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, null given in /home/gi8l84000zs4/Crmstock.io/application/vendor/symfony/console/Input/ArgvInput.php on line 53
+[30-Nov-2020 09:50:14 America/New_York] PHP Notice:  Undefined index: argv in /home/gi8l84000zs4/Crmstock.io/application/vendor/symfony/console/Input/ArgvInput.php on line 49
+[30-Nov-2020 09:50:14 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, null given in /home/gi8l84000zs4/Crmstock.io/application/vendor/symfony/console/Input/ArgvInput.php on line 53
+[30-Nov-2020 09:55:46 America/New_York] PHP Notice:  Undefined index: argv in /home/gi8l84000zs4/Crmstock.io/application/vendor/symfony/console/Input/ArgvInput.php on line 49
+[30-Nov-2020 09:55:46 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, null given in /home/gi8l84000zs4/Crmstock.io/application/vendor/symfony/console/Input/ArgvInput.php on line 53
+[30-Nov-2020 10:00:41 America/New_York] PHP Notice:  Undefined index: argv in /home/gi8l84000zs4/Crmstock.io/application/vendor/symfony/console/Input/ArgvInput.php on line 49
+[30-Nov-2020 10:00:41 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, null given in /home/gi8l84000zs4/Crmstock.io/application/vendor/symfony/console/Input/ArgvInput.php on line 53
+[30-Nov-2020 10:05:18 America/New_York] PHP Notice:  Undefined index: argv in /home/gi8l84000zs4/Crmstock.io/application/vendor/symfony/console/Input/ArgvInput.php on line 49
+[30-Nov-2020 10:05:18 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, null given in /home/gi8l84000zs4/Crmstock.io/application/vendor/symfony/console/Input/ArgvInput.php on line 53
+[30-Nov-2020 10:10:29 America/New_York] PHP Notice:  Undefined index: argv in /home/gi8l84000zs4/Crmstock.io/application/vendor/symfony/console/Input/ArgvInput.php on line 49
+[30-Nov-2020 10:10:29 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, null given in /home/gi8l84000zs4/Crmstock.io/application/vendor/symfony/console/Input/ArgvInput.php on line 53
+[30-Nov-2020 10:15:14 America/New_York] PHP Notice:  Undefined index: argv in /home/gi8l84000zs4/Crmstock.io/application/vendor/symfony/console/Input/ArgvInput.php on line 49
+[30-Nov-2020 10:15:14 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, null given in /home/gi8l84000zs4/Crmstock.io/application/vendor/symfony/console/Input/ArgvInput.php on line 53
+[30-Nov-2020 10:20:36 America/New_York] PHP Notice:  Undefined index: argv in /home/gi8l84000zs4/Crmstock.io/application/vendor/symfony/console/Input/ArgvInput.php on line 49
+[30-Nov-2020 10:20:36 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, null given in /home/gi8l84000zs4/Crmstock.io/application/vendor/symfony/console/Input/ArgvInput.php on line 53
+[30-Nov-2020 10:25:35 America/New_York] PHP Notice:  Undefined index: argv in /home/gi8l84000zs4/Crmstock.io/application/vendor/symfony/console/Input/ArgvInput.php on line 49
+[30-Nov-2020 10:25:35 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, null given in /home/gi8l84000zs4/Crmstock.io/application/vendor/symfony/console/Input/ArgvInput.php on line 53
+[30-Nov-2020 10:30:19 America/New_York] PHP Notice:  Undefined index: argv in /home/gi8l84000zs4/Crmstock.io/application/vendor/symfony/console/Input/ArgvInput.php on line 49
+[30-Nov-2020 10:30:19 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, null given in /home/gi8l84000zs4/Crmstock.io/application/vendor/symfony/console/Input/ArgvInput.php on line 53
+[30-Nov-2020 10:35:44 America/New_York] PHP Notice:  Undefined index: argv in /home/gi8l84000zs4/Crmstock.io/application/vendor/symfony/console/Input/ArgvInput.php on line 49
+[30-Nov-2020 10:35:44 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, null given in /home/gi8l84000zs4/Crmstock.io/application/vendor/symfony/console/Input/ArgvInput.php on line 53
+[30-Nov-2020 10:40:01 America/New_York] PHP Notice:  Undefined index: argv in /home/gi8l84000zs4/Crmstock.io/application/vendor/symfony/console/Input/ArgvInput.php on line 49
+[30-Nov-2020 10:40:01 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, null given in /home/gi8l84000zs4/Crmstock.io/application/vendor/symfony/console/Input/ArgvInput.php on line 53
+[30-Nov-2020 10:45:02 America/New_York] PHP Notice:  Undefined index: argv in /home/gi8l84000zs4/Crmstock.io/application/vendor/symfony/console/Input/ArgvInput.php on line 49
+[30-Nov-2020 10:45:02 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, null given in /home/gi8l84000zs4/Crmstock.io/application/vendor/symfony/console/Input/ArgvInput.php on line 53
+[30-Nov-2020 10:50:28 America/New_York] PHP Notice:  Undefined index: argv in /home/gi8l84000zs4/Crmstock.io/application/vendor/symfony/console/Input/ArgvInput.php on line 49
+[30-Nov-2020 10:50:28 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, null given in /home/gi8l84000zs4/Crmstock.io/application/vendor/symfony/console/Input/ArgvInput.php on line 53
+[30-Nov-2020 10:55:23 America/New_York] PHP Notice:  Undefined index: argv in /home/gi8l84000zs4/Crmstock.io/application/vendor/symfony/console/Input/ArgvInput.php on line 49
+[30-Nov-2020 10:55:23 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, null given in /home/gi8l84000zs4/Crmstock.io/application/vendor/symfony/console/Input/ArgvInput.php on line 53
+[30-Nov-2020 11:00:16 America/New_York] PHP Notice:  Undefined index: argv in /home/gi8l84000zs4/Crmstock.io/application/vendor/symfony/console/Input/ArgvInput.php on line 49
+[30-Nov-2020 11:00:16 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, null given in /home/gi8l84000zs4/Crmstock.io/application/vendor/symfony/console/Input/ArgvInput.php on line 53
+[30-Nov-2020 11:05:40 America/New_York] PHP Notice:  Undefined index: argv in /home/gi8l84000zs4/Crmstock.io/application/vendor/symfony/console/Input/ArgvInput.php on line 49
+[30-Nov-2020 11:05:40 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, null given in /home/gi8l84000zs4/Crmstock.io/application/vendor/symfony/console/Input/ArgvInput.php on line 53
+[30-Nov-2020 11:10:33 America/New_York] PHP Notice:  Undefined index: argv in /home/gi8l84000zs4/Crmstock.io/application/vendor/symfony/console/Input/ArgvInput.php on line 49
+[30-Nov-2020 11:10:33 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, null given in /home/gi8l84000zs4/Crmstock.io/application/vendor/symfony/console/Input/ArgvInput.php on line 53
+[30-Nov-2020 11:15:04 America/New_York] PHP Notice:  Undefined index: argv in /home/gi8l84000zs4/Crmstock.io/application/vendor/symfony/console/Input/ArgvInput.php on line 49
+[30-Nov-2020 11:15:04 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, null given in /home/gi8l84000zs4/Crmstock.io/application/vendor/symfony/console/Input/ArgvInput.php on line 53
+[30-Nov-2020 11:20:26 America/New_York] PHP Notice:  Undefined index: argv in /home/gi8l84000zs4/Crmstock.io/application/vendor/symfony/console/Input/ArgvInput.php on line 49
+[30-Nov-2020 11:20:26 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, null given in /home/gi8l84000zs4/Crmstock.io/application/vendor/symfony/console/Input/ArgvInput.php on line 53
+[30-Nov-2020 11:25:33 America/New_York] PHP Notice:  Undefined index: argv in /home/gi8l84000zs4/Crmstock.io/application/vendor/symfony/console/Input/ArgvInput.php on line 49
+[30-Nov-2020 11:25:33 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, null given in /home/gi8l84000zs4/Crmstock.io/application/vendor/symfony/console/Input/ArgvInput.php on line 53
+[30-Nov-2020 11:30:11 America/New_York] PHP Notice:  Undefined index: argv in /home/gi8l84000zs4/Crmstock.io/application/vendor/symfony/console/Input/ArgvInput.php on line 49
+[30-Nov-2020 11:30:11 America/New_York] PHP Warning:  array_shift() expects parameter 1 to be array, null given in /home/gi8l84000zs4/Crmstock.io/application/vendor/symfony/console/Input/ArgvInput.php on line 53

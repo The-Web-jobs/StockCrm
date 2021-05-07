@@ -1,0 +1,1 @@
+<?php echo cleanEmail($content); ?><?php /**PATH /home/gi8l84000zs4/Crmstock.io/application/resources/views/pages/emails/template.blade.php ENDPATH**/ ?>
